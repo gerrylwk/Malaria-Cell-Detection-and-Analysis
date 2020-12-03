@@ -36,8 +36,11 @@ Full Notebook Structure:
 4) Base Model
 
 	-Perceptron Learning Algorithm(PLA)
+	
 	-Logistic Regression
+	
 	-Simplified VGG-16(Base)
+	
 5) Hyperas 
 
 	This section takes very long to run
